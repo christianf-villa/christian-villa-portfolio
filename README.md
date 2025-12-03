@@ -115,11 +115,11 @@ O projeto está em fase de refinamento e as seguintes correções estão prioriz
 
 1. **Clone o repositório:**
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
+    git clone https://github.com/christianf-villa/christian-villa-portfolio
     ```
 2. **Acesse a pasta:**
     ```bash
-    cd [NOME DO SEU REPOSITÓRIO]
+    cd christian-villa-portfolio
     ```
 3. **Abra:**
     Abra o arquivo `index.html` diretamente no seu navegador.
